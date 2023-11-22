@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644919936580",
+    "project_id": "apotek-49b2b",
+    "storage_bucket": "apotek-49b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644919936580:android:21344870e30e8f29f41e11",
+        "android_client_info": {
+          "package_name": "com.example.apotek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9X3fLITbDJ1tuzmrrBJRAkl5CvF6LTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
